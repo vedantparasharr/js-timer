@@ -206,4 +206,4 @@ This project is open source and available under the **MIT License**.
 
 Feel free to fork this project and submit pull requests for improvements!
 
-**Made with ❤️ by a Computer Science Student**
+**Made with ❤️ by Vedant Parashar**
