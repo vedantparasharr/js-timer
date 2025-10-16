@@ -56,14 +56,28 @@ button {
 }
 
 #start-btn {
-    background: #3b82f6;
-    color: white;
+    background: #16C47F;
+    color: #FFFFFF;
+}
+
+#pause-btn {
+    display: none;
+    background: #FFD65A;
+    color: #1F2937;      
+}
+
+#resume-btn {
+    display: none;
+    background: #FF9D23;
+    color: #FFFFFF;
 }
 
 #reset-btn {
-    background: #ef4444;
-    color: white;
+    background: #F93827;
+    color: #FFFFFF;
 }
+
+
 
 button:hover {
     filter: brightness(1.1);
